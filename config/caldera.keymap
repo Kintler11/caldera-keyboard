@@ -40,10 +40,10 @@
 
         settings_layer {
             bindings = <
-&trans  &trans  &trans  &trans  &bt BT_PRV  &bt BT_NXT        &bootloader  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &bt BT_CLR  &bt BT_CLR_ALL    &sys_reset   &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans      &trans            &trans       &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans      &trans            &trans       &trans  &trans  &trans  &trans  &trans
+&kp DOLLAR  &trans  &trans  &trans  &bt BT_PRV  &bt BT_NXT        &bootloader  &trans  &trans  &trans  &trans  &trans
+&trans      &trans  &trans  &trans  &bt BT_CLR  &bt BT_CLR_ALL    &sys_reset   &trans  &trans  &trans  &trans  &trans
+&trans      &trans  &trans  &trans  &trans      &trans            &trans       &trans  &trans  &trans  &trans  &trans
+&trans      &trans  &trans  &trans  &trans      &trans            &trans       &trans  &trans  &trans  &trans  &trans
             >;
         };
     };
