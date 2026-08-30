@@ -31,10 +31,10 @@
             // |       |   <   |   >   |       |       |       |          |         |          |         |         |          |       |
 
             bindings = <
-&kp F1  &kp F2  &kp F3        &kp F4         &kp F5         &kp F6              &kp F7            &kp F8             &kp F9                &kp F10                &kp F11       &kp F12
-&trans  &trans  &kp ASTERISK  &kp AMPERSAND  &kp LESS_THAN  &kp GREATER_THAN    &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EXCL      &kp QUESTION
-&trans  &trans  &trans        &kp PIPE       &kp MINUS      &kp PLUS            &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans                &trans                 &bt BT_CLR    &bt BT_CLR_ALL
-&trans  &trans  &trans        &trans         &trans         &kp EQUAL           &kp SLASH         &kp BACKSLASH      &bt BT_SEL 0          &bt BT_SEL 1           &bt BT_SEL 3  &bt BT_SEL 4
+&kp F1          &kp F2          &kp F3        &kp F4         &kp F5         &kp F6              &kp F7            &kp F8             &kp F9                &kp F10                &kp F11       &kp F12
+&kp LANGUAGE_1  &kp LANGUAGE_2  &kp ASTERISK  &kp AMPERSAND  &kp LESS_THAN  &kp GREATER_THAN    &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EXCL      &kp QUESTION
+&trans          &trans          &trans        &kp PIPE       &kp MINUS      &kp PLUS            &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans                &trans                 &bt BT_CLR    &bt BT_CLR_ALL
+&trans          &trans          &trans        &trans         &trans         &kp EQUAL           &kp SLASH         &kp BACKSLASH      &bt BT_SEL 0          &bt BT_SEL 1           &bt BT_SEL 3  &bt BT_SEL 4
             >;
         };
     };
